@@ -1,0 +1,11 @@
+{
+	"hpath": "$EPC",
+
+
+	"env": [
+		{
+			"EPC": "C:/BISMUTH/EPC_Package/EPC/"
+		}
+
+	]
+}
