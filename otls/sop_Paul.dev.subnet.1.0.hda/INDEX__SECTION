@@ -1,0 +1,14 @@
+Operator:     Paul::dev::subnet::1.0
+Label:        Test HDA EPC (Dev)
+Path:         oplib:/Paul::dev::Sop/subnet::1.0?Paul::dev::Sop/subnet::1.0
+Icon:         SOP_subnet
+Table:        Sop
+License:      
+Extra:        inputcolors='0 ' outputcolors='1 "RGB 0.700195 0.700195 0.700195" ' 
+User:         
+Inputs:       0 to 0
+Subnet:       true
+Python:       false
+Empty:        false
+Modified:     Wed Apr 19 10:45:17 2023
+
